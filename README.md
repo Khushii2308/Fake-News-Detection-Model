@@ -1,20 +1,20 @@
 # Fake-News-Detection--Model
-# Overview
+## Overview
 This Fake News Detection model is a Python-based tool that leverages Machine Learning and Natural Language Processing (NLP) techniques to classify news articles as real or fake. The model processes text data, extracts relevant features, and applies algorithms such as Logistic Regression or Random Forest to predict the credibility of news content. It is trained on a labeled dataset and can be deployed for real-time fake news detection.
 
-# Features
+## Features
 - Text Preprocessing: Cleans and prepares text data for analysis.
 - Feature Extraction: Uses NLP techniques like TF-IDF vectorization.
 - Machine Learning Models: Implements Logistic Regression and Random Forest classifiers.
 - Dataset Handling: Utilizes labeled datasets for training and evaluation.
 - Real-Time Detection: Can be deployed as an API or web application for live predictions.
 
-# Dataset
+## Dataset
 The model is trained on publicly available datasets:
 - True News Dataset: [Download Here](https://www.kaggle.com/datasets/advit200/true-news-data)
 - Fake News Dataset: [Download Here](https://www.kaggle.com/datasets/khushiib23/fake-news-dataset)
 
-# Installation
+## Installation
 1. Clone the repository:
    git clone https://github.com/yourusername/fake-news-detection.git
    cd fake-news-detection
@@ -22,7 +22,7 @@ The model is trained on publicly available datasets:
 2. Download and place the datasets in the data/ directory.
 
 ## Usage
-## Training the Model
+### Training the Model
 Run the following command to train the model:
 python train.py
 
