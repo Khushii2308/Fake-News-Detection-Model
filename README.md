@@ -1,4 +1,4 @@
-# Fake-News-Detection--Model
+# Fake-News-Detection-Model
 ## Overview
 This Fake News Detection model is a Python-based tool that leverages Machine Learning and Natural Language Processing (NLP) techniques to classify news articles as real or fake. The model processes text data, extracts relevant features, and applies algorithms such as Logistic Regression or Random Forest to predict the credibility of news content. It is trained on a labeled dataset and can be deployed for real-time fake news detection.
 
