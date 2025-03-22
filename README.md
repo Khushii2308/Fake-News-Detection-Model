@@ -16,7 +16,7 @@ The model is trained on publicly available datasets:
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/fake-news-detection.git
+   git clone https://github.com/Khushii2308/Fake-News-Detection-Model.git
    cd fake-news-detection
       
 2. Download and place the datasets in the data/ directory.
